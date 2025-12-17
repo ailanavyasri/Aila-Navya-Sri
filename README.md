@@ -1,7 +1,23 @@
+# 👋 Hello, I'm Aila Navya Sri
+**B.Tech Student | Aspiring Computer Science Student**
 
-# Hi, I'm Aila Navya Sri 👋
-### B.Tech Student @ Vignan institute of technology and science
+---
 
-- 🌱 I’m currently learning **Automation Testing ** FullStack development**
+### 💻 About Me
+- 🎓 A 3rd Year/Freshman student at **Vignan Institutes of technology and science**
+      Done my diploma graduation at **Government polytechnic of women's**
+- 🚀 Exploring the world of **Tech stacks**
 
-- 📫 Reach me at: **[ailanavyasri06@email.com]**
+### 🛠 Tech Stack
+- **Languages:** C++, Java, Python, JavaScript
+- **Tools:** Git, VS Code, GitHub
+- **Learning:** UI/UX, Automation testing
+
+### 📊 GitHub Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=highcontrast)
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/aila-navya-sri-40526030b/)
+- [Email](mailto:ailanavyasri06@example.com)
