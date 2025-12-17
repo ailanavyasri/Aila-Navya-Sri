@@ -14,7 +14,7 @@
 - **Learning:** UI/UX, Automation testing
 
 ### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=highcontrast)
+![My Stats](https://github-readme-stats.vercel.app/api?username=ailanavyasri&show_icons=true&theme=highcontrast)
 
 ---
 
