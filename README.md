@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=ailanavyasri&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_THIS_WITH_YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailanavyasri&layout=compact&theme=radical)
 
 ---
 
