@@ -4,7 +4,7 @@
 ---
 
 ### 💻 About Me
-- 🎓 A 3rd Year/Freshman student at **Vignan Institutes of technology and science**
+- 🎓 A UnderGradstudent at **Vignan Institutes of technology and science**
       Done my diploma graduation at **Government polytechnic of women's**
 - 🚀 Exploring the world of **Tech stacks**
 
