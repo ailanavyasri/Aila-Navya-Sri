@@ -9,7 +9,7 @@
 - 🚀 Exploring the world of **Tech stacks**
 
 ### 🛠 Tech Stack
-- **Languages:** C++, Java, Python, JavaScript
+- **Languages:** Java, Python, JavaScript
 - **Tools:** Git, VS Code, GitHub
 - **Learning:** UI/UX, Automation testing
 
